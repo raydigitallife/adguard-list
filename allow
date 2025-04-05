@@ -1,0 +1,8 @@
+!
+! Title: AdGuard DNS filter
+! Description: Allow List
+! Version: 1.0
+! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
+! Last modified: 2025-04-05
+!
+||mobile.events.data.microsoft.com^
