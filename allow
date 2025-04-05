@@ -13,4 +13,5 @@
 !    # 也是一個註解。:只是一個註解；
 !    /REGEX/:封鎖至與該已明確指定的規則運算式（Regular Expression）相符的網域之存取。
 
+# https://learn.microsoft.com/zh-tw/defender-endpoint/microsoft-defender-core-service-overview
 @@||*.events.data.microsoft.com^
