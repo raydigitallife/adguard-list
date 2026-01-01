@@ -1,1 +1,17 @@
+!
+! Title: AdGuard DNS filter
+! Description: Allow List
+! Version: 1.0
+! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
+! Last modified: 2026-01-01
+!
+!範例:
+!    ||example.org^:封鎖至 example.org 網域及其所有的子網域之存取；
+!    @@||example.org^:解除封鎖至 example.org 網域及其所有的子網域之存取；
+!    127.0.0.1 example.org:對 example.org（但非對其子網域）以 127.0.0.1 回覆；
+!    ! 看，一個註解。:只是一個註解；
+!    # 也是一個註解。:只是一個註解；
+!    /REGEX/:封鎖至與該已明確指定的規則運算式（Regular Expression）相符的網域之存取。
 
+# 電視看到的厭煩廣告
+||drparis.com.tw^
