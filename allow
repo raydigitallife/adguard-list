@@ -3,7 +3,7 @@
 ! Description: Allow List
 ! Version: 1.0
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-01-01
+! Last modified: 2026-01-07
 !
 !範例:
 !    ||example.org^:封鎖至 example.org 網域及其所有的子網域之存取；
@@ -16,3 +16,8 @@
 # https://learn.microsoft.com/zh-tw/defender-endpoint/microsoft-defender-core-service-overview
 @@||events.data.microsoft.com^
 @@||playstation.net^
+@@||netflix.com^
+@@||trendmicro.com^
+@@||playstation.com^
+@@||dropbox.com^
+@@/cathaylife|cathaybk|cathayholdings|cathay-ins|cathaysec|cathaysite|cathaycapital/
