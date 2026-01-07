@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS filter
-! Description: Allow List
+! Description: Block List
 ! Version: 1.0
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-01-01
+! Last modified: 2026-01-07
 !
 !範例:
 !    ||example.org^:封鎖至 example.org 網域及其所有的子網域之存取；
