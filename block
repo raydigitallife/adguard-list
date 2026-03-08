@@ -2,8 +2,8 @@
 ! Title: AdGuard DNS filter
 ! Description: Block List
 ! Version: 1.0
-! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-01-07
+! Homepage: https://github.com/raydigitallife/adguard-list/edit/main/block
+! Last modified: 2026-03-08
 !
 !範例:
 !    ||example.org^:封鎖至 example.org 網域及其所有的子網域之存取；
@@ -16,3 +16,4 @@
 # 電視看到的厭煩廣告
 ||drparis.com.tw^
 ||drparis2.com.tw^
+||special-newseeds.com^
